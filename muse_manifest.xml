@@ -1,0 +1,317 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" ftp_hostname="ftp://ftp.macromia.com.br" ftp_rootfolder="/www" exportTarget="FTP" domain="http://macromia.com.br" resolutions="1x" timestamp="1484756647720">
+  <folder name="css">
+    <file name="site_global.css" crc="205954113"/>
+    <file name="master_painel-master-mestre.css" crc="147806912" ref="painel-master:blog:financeiro"/>
+    <file name="nomq_preview_master_painel-master-mestre.css" crc="3824530138" ref="painel-master:blog:financeiro"/>
+    <file name="master_a-mestre.css" crc="319531072" ref="confirmar:como-funciona:perfil-fotografo:index:filtro:esqueci-minha-senha:pedido-realizado:termo-de-uso:historico:creditos:trocar-senha:fotografo-editar:periodo-de-teste:sou-fotografo:confirmado:contato:ideias:fotografo-minha-conta"/>
+    <file name="nomq_preview_master_a-mestre.css" crc="4177069693" ref="confirmar:como-funciona:perfil-fotografo:index:filtro:esqueci-minha-senha:pedido-realizado:termo-de-uso:historico:creditos:trocar-senha:fotografo-editar:periodo-de-teste:sou-fotografo:confirmado:contato:ideias:fotografo-minha-conta"/>
+    <file name="master_a-mestre-copiar.css" crc="3920178509" ref="solicitar-fotografo"/>
+    <file name="confirmar.css" crc="4046037522" ref="confirmar"/>
+    <file name="nomq_confirmar.css" crc="1757716" ref="confirmar"/>
+    <file name="iefonts_confirmar.css" crc="3936982066" ref="confirmar"/>
+    <file name="painel-master.css" crc="197840277" ref="painel-master"/>
+    <file name="iefonts_painel-master.css" crc="151147370" ref="painel-master"/>
+    <file name="como-funciona.css" crc="305201993" ref="como-funciona"/>
+    <file name="nomq_como-funciona.css" crc="195745312" ref="como-funciona"/>
+    <file name="iefonts_como-funciona.css" crc="3936982066" ref="como-funciona"/>
+    <file name="blog.css" crc="226918270" ref="blog"/>
+    <file name="nomq_blog.css" crc="3824530138" ref="blog"/>
+    <file name="iefonts_blog.css" crc="53089618" ref="blog"/>
+    <file name="perfil-fotografo.css" crc="330178055" ref="perfil-fotografo"/>
+    <file name="nomq_perfil-fotografo.css" crc="375792647" ref="perfil-fotografo"/>
+    <file name="iefonts_perfil-fotografo.css" crc="3936982066" ref="perfil-fotografo"/>
+    <file name="financeiro.css" crc="3891785454" ref="financeiro"/>
+    <file name="iefonts_financeiro.css" crc="4060772598" ref="financeiro"/>
+    <file name="index.css" crc="4051081766" ref="index"/>
+    <file name="nomq_index.css" crc="4220914603" ref="index"/>
+    <file name="iefonts_index.css" crc="3936982066" ref="index"/>
+    <file name="filtro.css" crc="3788489661" ref="filtro"/>
+    <file name="nomq_filtro.css" crc="332961093" ref="filtro"/>
+    <file name="iefonts_filtro.css" crc="3936982066" ref="filtro"/>
+    <file name="solicitar-fotografo.css" crc="4159758534" ref="solicitar-fotografo"/>
+    <file name="iefonts_solicitar-fotografo.css" crc="335816217" ref="solicitar-fotografo"/>
+    <file name="esqueci-minha-senha.css" crc="315104167" ref="esqueci-minha-senha"/>
+    <file name="nomq_esqueci-minha-senha.css" crc="306790273" ref="esqueci-minha-senha"/>
+    <file name="iefonts_esqueci-minha-senha.css" crc="3936982066" ref="esqueci-minha-senha"/>
+    <file name="pedido-realizado.css" crc="236826126" ref="pedido-realizado"/>
+    <file name="nomq_pedido-realizado.css" crc="3965116472" ref="pedido-realizado"/>
+    <file name="iefonts_pedido-realizado.css" crc="3936982066" ref="pedido-realizado"/>
+    <file name="termo-de-uso.css" crc="320708592" ref="termo-de-uso"/>
+    <file name="nomq_termo-de-uso.css" crc="4249479800" ref="termo-de-uso"/>
+    <file name="iefonts_termo-de-uso.css" crc="3936982066" ref="termo-de-uso"/>
+    <file name="historico.css" crc="31464807" ref="historico"/>
+    <file name="nomq_historico.css" crc="3805654298" ref="historico"/>
+    <file name="iefonts_historico.css" crc="3936982066" ref="historico"/>
+    <file name="creditos.css" crc="3763671396" ref="creditos"/>
+    <file name="nomq_creditos.css" crc="277488486" ref="creditos"/>
+    <file name="iefonts_creditos.css" crc="3936982066" ref="creditos"/>
+    <file name="trocar-senha.css" crc="4241623374" ref="trocar-senha"/>
+    <file name="nomq_trocar-senha.css" crc="3884288093" ref="trocar-senha"/>
+    <file name="iefonts_trocar-senha.css" crc="3936982066" ref="trocar-senha"/>
+    <file name="fotografo-editar.css" crc="3762533354" ref="fotografo-editar"/>
+    <file name="nomq_fotografo-editar.css" crc="3840281491" ref="fotografo-editar"/>
+    <file name="iefonts_fotografo-editar.css" crc="3936982066" ref="fotografo-editar"/>
+    <file name="periodo-de-teste.css" crc="193996740" ref="periodo-de-teste"/>
+    <file name="nomq_periodo-de-teste.css" crc="155169499" ref="periodo-de-teste"/>
+    <file name="iefonts_periodo-de-teste.css" crc="3936982066" ref="periodo-de-teste"/>
+    <file name="sou-fotografo.css" crc="268903430" ref="sou-fotografo"/>
+    <file name="nomq_sou-fotografo.css" crc="3871345081" ref="sou-fotografo"/>
+    <file name="iefonts_sou-fotografo.css" crc="3936982066" ref="sou-fotografo"/>
+    <file name="confirmado.css" crc="3896587747" ref="confirmado"/>
+    <file name="nomq_confirmado.css" crc="4102826803" ref="confirmado"/>
+    <file name="iefonts_confirmado.css" crc="3936982066" ref="confirmado"/>
+    <file name="contato.css" crc="3977980986" ref="contato"/>
+    <file name="nomq_contato.css" crc="4189715572" ref="contato"/>
+    <file name="iefonts_contato.css" crc="3936982066" ref="contato"/>
+    <file name="ideias.css" crc="4277580687" ref="ideias"/>
+    <file name="nomq_ideias.css" crc="110794660" ref="ideias"/>
+    <file name="iefonts_ideias.css" crc="3936982066" ref="ideias"/>
+    <file name="fotografo-minha-conta.css" crc="3894560915" ref="fotografo-minha-conta"/>
+    <file name="nomq_fotografo-minha-conta.css" crc="4092267591" ref="fotografo-minha-conta"/>
+    <file name="iefonts_fotografo-minha-conta.css" crc="3936982066" ref="fotografo-minha-conta"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:como-funciona:ideias:creditos:termo-de-uso:solicitar-fotografo:sou-fotografo:confirmar:confirmado:filtro:perfil-fotografo:fotografo-editar:fotografo-minha-conta:painel-master:financeiro:blog:esqueci-minha-senha:trocar-senha:contato:periodo-de-teste:pedido-realizado:historico"/>
+    <file name="museutils.js" crc="4148063285" ref="index:como-funciona:ideias:creditos:termo-de-uso:solicitar-fotografo:sou-fotografo:confirmar:confirmado:filtro:perfil-fotografo:fotografo-editar:fotografo-minha-conta:painel-master:financeiro:blog:esqueci-minha-senha:trocar-senha:contato:periodo-de-teste:pedido-realizado:historico"/>
+    <file name="whatinput.js" crc="86476730" ref="index:como-funciona:ideias:creditos:termo-de-uso:solicitar-fotografo:sou-fotografo:confirmar:confirmado:filtro:perfil-fotografo:fotografo-editar:fotografo-minha-conta:painel-master:financeiro:blog:esqueci-minha-senha:trocar-senha:contato:periodo-de-teste:pedido-realizado:historico"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:como-funciona:ideias:creditos:termo-de-uso:solicitar-fotografo:sou-fotografo:confirmar:confirmado:filtro:perfil-fotografo:fotografo-editar:fotografo-minha-conta:painel-master:financeiro:blog:esqueci-minha-senha:trocar-senha:contato:periodo-de-teste:pedido-realizado:historico"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:ideias:solicitar-fotografo:perfil-fotografo:fotografo-editar:fotografo-minha-conta:painel-master:contato:periodo-de-teste:pedido-realizado:historico:esqueci-minha-senha"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:como-funciona:ideias:creditos:termo-de-uso:solicitar-fotografo:sou-fotografo:confirmar:confirmado:filtro:perfil-fotografo:fotografo-editar:fotografo-minha-conta:painel-master:financeiro:blog:esqueci-minha-senha:trocar-senha:contato:periodo-de-teste:pedido-realizado:historico"/>
+    <file name="webpro.js" crc="3986320349" ref="index:como-funciona:ideias:creditos:termo-de-uso:sou-fotografo:confirmar:confirmado:filtro:perfil-fotografo:fotografo-editar:fotografo-minha-conta:painel-master:financeiro:esqueci-minha-senha:trocar-senha:contato:periodo-de-teste:pedido-realizado:historico"/>
+    <file name="musewpdisclosure.js" crc="3865010892" ref="index:como-funciona:ideias:creditos:termo-de-uso:sou-fotografo:confirmar:confirmado:filtro:perfil-fotografo:fotografo-editar:fotografo-minha-conta:esqueci-minha-senha:trocar-senha:contato:periodo-de-teste:pedido-realizado:historico"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index:como-funciona:ideias:creditos:termo-de-uso:sou-fotografo:confirmar:confirmado:filtro:perfil-fotografo:fotografo-editar:fotografo-minha-conta:esqueci-minha-senha:trocar-senha:contato:periodo-de-teste:pedido-realizado:historico"/>
+    <file name="require.js" crc="4159430777" ref="index:como-funciona:ideias:creditos:termo-de-uso:solicitar-fotografo:sou-fotografo:confirmar:confirmado:filtro:perfil-fotografo:fotografo-editar:fotografo-minha-conta:painel-master:financeiro:blog:esqueci-minha-senha:trocar-senha:contato:periodo-de-teste:pedido-realizado:historico"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="perfil-fotografo:painel-master:financeiro"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="perfil-fotografo:painel-master:financeiro"/>
+    <file name="touchswipe.js" crc="221459597" ref="perfil-fotografo:painel-master:financeiro"/>
+    <file name="form_check.php" crc="303648844" ref="contato"/>
+    <file name="form_throttle.php" crc="236764551" ref="contato"/>
+    <file name="form_process.php" crc="4272079531" ref="contato"/>
+    <file name="form-u37714.php" crc="3849095078" ref="contato"/>
+    <file name="form-u238840.php" crc="292619862" ref="contato"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4078911600" ref="index:historico:esqueci-minha-senha:solicitar-fotografo"/>
+    <file name="ativo 1.svg" crc="296760398" ref="index:solicitar-fotografo:painel-master:historico:esqueci-minha-senha"/>
+    <file name="ativo 1_poster_u37602.png" crc="4019347156" ref="index:solicitar-fotografo:painel-master:historico:esqueci-minha-senha"/>
+    <file name="home.png" crc="4030391627" ref="index"/>
+    <file name="ativo 2.svg" crc="536431724" ref="index:solicitar-fotografo:historico:esqueci-minha-senha"/>
+    <file name="ativo 2_poster_u37779.png" crc="4133684039" ref="index:solicitar-fotografo:historico:esqueci-minha-senha"/>
+    <file name="pexels-photo.jpg" crc="286260444" ref="index"/>
+    <file name="menu-button-of-three-horizontal-lines.svg" crc="4146768748" ref="index:historico:esqueci-minha-senha"/>
+    <file name="menu-button-of-three-horizontal-lines_poster_u52741.png" crc="114741338" ref="index:historico:esqueci-minha-senha"/>
+    <file name="home-u95097-fr.png" crc="456488385" ref="index"/>
+    <file name="pexels-photo-u125187-fr.jpg" crc="4008774624" ref="index"/>
+    <file name="home-u95097-fr2.png" crc="4172009666" ref="index"/>
+    <file name="15542-nqdof8.svg" crc="3908725276" seo="true" ref="como-funciona"/>
+    <file name="15542-nqdof8_poster_.png" crc="494287549" ref="como-funciona"/>
+    <file name="34689-nzpa9x.svg" crc="334479141" seo="true" ref="como-funciona:confirmar:confirmado:esqueci-minha-senha:trocar-senha"/>
+    <file name="34689-nzpa9x_poster_.png" crc="63264009" ref="como-funciona:esqueci-minha-senha"/>
+    <file name="34688-nzpa36.svg" crc="445679695" seo="true" ref="como-funciona:confirmar:confirmado:esqueci-minha-senha:trocar-senha"/>
+    <file name="34688-nzpa36_poster_.png" crc="444024247" ref="como-funciona:esqueci-minha-senha"/>
+    <file name="blank.gif" crc="4208392903" ref="como-funciona:ideias:creditos:termo-de-uso:sou-fotografo:confirmar:confirmado:filtro:perfil-fotografo:fotografo-editar:fotografo-minha-conta:esqueci-minha-senha:trocar-senha:contato:periodo-de-teste:pedido-realizado"/>
+    <file name="working_5.svg" crc="365875134" ref="ideias"/>
+    <file name="working_5_poster_u35654.png" crc="4250516743" ref="ideias"/>
+    <file name="imagem-gira-capa-facebook-arte.jpg" crc="525053581" ref="perfil-fotografo"/>
+    <file name="10534561_687786901302357_6847294147468846186_n.jpg" crc="301480573" ref="perfil-fotografo"/>
+    <file name="star-5.svg" crc="4257271542" ref="perfil-fotografo"/>
+    <file name="star-5_poster_u18019.png" crc="530111937" ref="perfil-fotografo"/>
+    <file name="star-4.svg" crc="3971599811" ref="perfil-fotografo"/>
+    <file name="star-4_poster_u18027.png" crc="536000023" ref="perfil-fotografo"/>
+    <file name="technical-support.svg" crc="3976652051" seo="true" ref="perfil-fotografo:fotografo-minha-conta"/>
+    <file name="technical-support_poster_.png" crc="523767169" ref="perfil-fotografo"/>
+    <file name="camera-photographer-yellow-photography.jpg" crc="3881781017" ref="fotografo-editar:fotografo-minha-conta"/>
+    <file name="user_48.png" crc="3819299270" ref="fotografo-editar:fotografo-minha-conta"/>
+    <file name="pencil.svg" crc="171022353" ref="fotografo-editar"/>
+    <file name="pencil_poster_u28154.png" crc="365893823" ref="fotografo-editar"/>
+    <file name="camera-photographer-yellow-photography-u25393-fr.jpg" crc="456401810" ref="fotografo-editar:fotografo-minha-conta"/>
+    <file name="amcharts(3).jpg" crc="4113762437" seo="true" ref="painel-master:financeiro"/>
+    <file name="amcharts(2).jpg" crc="4107027934" seo="true" ref="painel-master:financeiro"/>
+    <file name="amcharts(4).jpg" crc="3786156588" seo="true" ref="painel-master:financeiro"/>
+    <file name="amcharts(1).jpg" crc="114896465" seo="true" ref="painel-master:financeiro"/>
+    <file name="imagem colada 2000x1772.png" crc="3797965672" seo="true" ref="blog"/>
+    <file name="8-people.svg" crc="3823812967" ref="contato"/>
+    <file name="8-people_poster_u238594.png" crc="3841930747" ref="contato"/>
+    <file name="boy.svg" crc="6333720" ref="periodo-de-teste"/>
+    <file name="boy_poster_u264407.png" crc="126542092" ref="periodo-de-teste"/>
+    <file name="filtro.svg" crc="4112990390" ref="pedido-realizado"/>
+    <file name="filtro_poster_u317620.png" crc="145635718" ref="pedido-realizado"/>
+  </folder>
+  <file name="index.html" crc="4125220013" seo="true" mt="1482168291593" redirect="true"/>
+  <file name="como-funciona.html" crc="128062209" seo="true" mt="1482168346325" redirect="true"/>
+  <file name="ideias.html" crc="3760766086" seo="true" mt="1482168357821" redirect="true"/>
+  <file name="creditos.html" crc="4123890506" seo="true" mt="1482168371102" redirect="true"/>
+  <file name="termo-de-uso.html" crc="311081776" seo="true" mt="1482168352832" redirect="true"/>
+  <file name="solicitar-fotografo.html" crc="419866029" seo="true" mt="1484756639176" redirect="true"/>
+  <file name="sou-fotografo.html" crc="43517347" seo="true" mt="1481897099133" redirect="true"/>
+  <file name="confirmar.html" crc="26066015" seo="true" mt="1482168399459" redirect="true"/>
+  <file name="confirmado.html" crc="421464312" seo="true" mt="1482168446190" redirect="true"/>
+  <file name="filtro.html" crc="4125817772" seo="true" mt="1482168475937" redirect="true"/>
+  <file name="perfil-fotografo.html" crc="4005477728" seo="true" mt="1481897099133" redirect="true"/>
+  <file name="fotografo-editar.html" crc="3768320787" seo="true" mt="1482168516804" redirect="true"/>
+  <file name="fotografo-minha-conta.html" crc="4165365316" seo="true" mt="1482168497511" redirect="true"/>
+  <file name="painel-master.html" crc="468209722" seo="true" mt="1480519868285" redirect="true"/>
+  <file name="financeiro.html" crc="3818449127" seo="true" mt="1480519868286" redirect="true"/>
+  <file name="blog.html" crc="221698623" seo="true" mt="1480519868286" redirect="true"/>
+  <file name="esqueci-minha-senha.html" crc="89020315" seo="true" mt="1483724466133" redirect="true"/>
+  <file name="trocar-senha.html" crc="131440439" seo="true" mt="1483724543418" redirect="true"/>
+  <file name="contato.html" crc="64377251" seo="true" mt="1482168389378" redirect="true"/>
+  <file name="periodo-de-teste.html" crc="3825763573" seo="true" mt="1482168383653" redirect="true"/>
+  <file name="pedido-realizado.html" crc="3883715050" seo="true" mt="1482171984747" redirect="true"/>
+  <file name="historico.html" crc="3945618682" seo="true" mt="1483548016954" redirect="true"/>
+  <site/>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Macromia" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U59692" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U57394" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U57232" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U57070" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U83" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <masterPage name="A-mestre" master="U62" uid="U72">
+        <breakpoint uid="U330741" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U51707" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U51432" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U50882" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U73" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="1024" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Como Funciona" filename="como-funciona.html" muse_href="page:U415" master="U72">
+        <breakpoint uid="U214206" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U214090" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U212850" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U212773" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U399" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Ideias" filename="ideias.html" muse_href="page:U433" master="U72">
+        <breakpoint uid="U237293" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U237253" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U237213" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U237080" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U417" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Planos" filename="creditos.html" muse_href="page:U451" master="U72">
+        <breakpoint uid="U435" maxwidth="1280" minwidth="0" squishy="true"/>
+        <anchor name="standard" html_id="standard" muse_href="anchor:U434:U34761" includeInBPs="U435"/>
+      </page>
+      <page name="Termo de Uso" filename="termo-de-uso.html" muse_href="page:U469" master="U72">
+        <breakpoint uid="U239379" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U239337" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U239291" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U239250" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U453" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Solicite um Fotógrafo" filename="solicitar-fotografo.html" muse_href="page:U487" master="U478316">
+        <breakpoint uid="U502530" maxwidth="1280" minwidth="0" squishy="true"/>
+      </page>
+      <masterPage name="A-mestre copiar" master="U62" uid="U478316">
+        <breakpoint uid="U478825" maxwidth="1280" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Sou Fotógrafo" filename="sou-fotografo.html" muse_href="page:U505" master="U72">
+        <breakpoint uid="U178098" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U172887" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U172635" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U163341" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U489" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Confirmar" filename="confirmar.html" muse_href="page:U8149" master="U72">
+        <breakpoint uid="U239560" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U239516" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U239464" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U239421" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U8121" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Confirmado" filename="confirmado.html" muse_href="page:U9231" master="U72">
+        <breakpoint uid="U240467" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U239735" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U239667" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U240147" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U240379" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Filtro" filename="filtro.html" muse_href="page:U14007" master="U72">
+        <breakpoint uid="U363490" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U363335" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U362800" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U362689" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U13955" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Fotógrafo-Perfil" filename="perfil-fotografo.html" muse_href="page:U17774" master="U72">
+        <breakpoint uid="U17716" maxwidth="1280" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Fotógrafo-Editar" filename="fotografo-editar.html" muse_href="page:U25338" master="U72">
+        <breakpoint uid="U222662" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U222277" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U220737" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U219084" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U25055" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Fotógrafo-Minha Conta" filename="fotografo-minha-conta.html" muse_href="page:U28733" master="U72">
+        <breakpoint uid="U236186" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U235887" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U235138" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U227823" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U28180" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Painel Master" filename="painel-master.html" muse_href="page:U30809" master="U29420">
+        <breakpoint uid="U30745" maxwidth="1280" minwidth="0" squishy="true"/>
+        <anchor name="geral" html_id="geral" muse_href="anchor:U30744:U32173" includeInBPs="U30745"/>
+        <anchor name="fotografos" html_id="fotografos" muse_href="anchor:U30744:U32767" includeInBPs="U30745"/>
+        <anchor name="clientes" html_id="clientes" muse_href="anchor:U30744:U33653" includeInBPs="U30745"/>
+      </page>
+      <masterPage name="Painel Master-mestre" master="U62" uid="U29420">
+        <breakpoint uid="U29603" maxwidth="1280" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Financeiro" filename="financeiro.html" muse_href="page:U30983" master="U29420">
+        <breakpoint uid="U30919" maxwidth="1280" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Blog" filename="blog.html" muse_href="page:U31049" master="U29420">
+        <breakpoint uid="U30985" maxwidth="1280" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Esqueci minha senha" filename="esqueci-minha-senha.html" muse_href="page:U35827" master="U72">
+        <breakpoint uid="U240740" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U240681" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U240614" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U240556" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U35757" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Trocar senha" filename="trocar-senha.html" muse_href="page:U36008" master="U72">
+        <breakpoint uid="U241061" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U240997" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U240925" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U240862" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U35938" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Contato" filename="contato.html" muse_href="page:U37688" master="U72">
+        <breakpoint uid="U239168" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U239003" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U238528" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U237466" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U37612" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Período de Teste" filename="periodo-de-teste.html" muse_href="page:U237465" master="U72">
+        <breakpoint uid="U264710" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U264643" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U264606" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U264569" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U237371" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Pedido Realizado" filename="pedido-realizado.html" muse_href="page:U430867" master="U72">
+        <breakpoint uid="U430964" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U430932" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U430900" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U430868" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U430773" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Histórico" filename="historico.html" muse_href="page:U506658" master="U72">
+        <breakpoint uid="U505879" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U505307" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U506353" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U506119" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U505645" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>

@@ -1,0 +1,35 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" ftp_hostname="ftp://ftp.macromia.com.br" ftp_rootfolder="/www/teste" exportTarget="FTP" domain="www.macromia.com.br/teste" resolutions="1x" timestamp="1474301437051">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="26885077" ref="index"/>
+    <file name="nomq_index.css" crc="4065642537" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
+    <file name="museutils.js" crc="3851988764" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="169177150" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="index"/>
+    <file name="require.js" crc="4108833657" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3977186745" seo="true" mt="1474301425059" redirect="true"/>
+  <site/>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Início" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U114" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U110" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U106" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U102" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U98" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <masterPage name="A-mestre" master="U62" uid="U72">
+        <breakpoint uid="U73" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+    </rendition>
+  </renditions>
+</manifest>

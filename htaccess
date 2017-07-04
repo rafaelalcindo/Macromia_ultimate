@@ -1,0 +1,21 @@
+## Go Daddy servers need the Options -MultiViews code below
+#Options -MultiViews
+#RewriteEngine On
+#RewriteBase /
+
+# Hide .html extension
+## External Redirect
+#RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.html [NC]
+#RewriteRule ^ %1 [R,NC]
+
+## ## Internal Redirect
+#RewriteCond %{REQUEST_FILENAME}.html -f
+#RewriteRule ^ %{REQUEST_URI}.html
+
+AddType text/html .html .php
+Options Indexes FollowSymLinks Includes
+
+#Uncomment the version of PHP you have on your server
+#Only one of the following can be uncommented
+
+AddHandler application/x-httpd-php52 .html .php
